@@ -1,0 +1,30 @@
+_repo: On-The-Structure-of-Greek-Tribal-Society--An-Essay_26341
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Seebohm, Hugh E. (Hugh Exton)
+    birthdate: 1867
+    deathdate: 1946
+    gutenberg_agent_id: '31927'
+    url: http://www.gutenberg.org/2009/agents/31927
+description: ''
+gutenberg_issued: '2008-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26341'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greece -- History'
+- !lcsh 'Greece -- Law -- Antiquities'
+- !lcsh 'Land tenure -- Greece'
+- !lcsh 'Tribes'
+- !lcsh 'Greece -- Social life and customs'
+- !lcc 'DF'
+title: 'On The Structure of Greek Tribal Society: An Essay'
+url: http://www.gutenberg.org/ebooks/26341
